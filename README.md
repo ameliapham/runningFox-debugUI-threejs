@@ -1,5 +1,3 @@
-# debug-UI-project
-
 # ThreeJS 3D Scene with GUI
 
 This project is an interactive 3D scene built with Three.js, featuring a graphical user interface (GUI) that allows real-time control over various scene parameters.
